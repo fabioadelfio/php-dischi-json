@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+    "year": 1991,
+    "genre": "Grunge"
+  },
+  {
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/84/Back_in_Black_ACDC.png",
+    "year": 1980,
+    "genre": "Hard Rock"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "year": 1982,
+    "genre": "Pop"
+  },
+  {
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+    "year": 1973,
+    "genre": "Progressive Rock"
+  },
+  {
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+    "year": 1969,
+    "genre": "Rock"
+  },
+  {
+    "title": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/02/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+    "year": 2000,
+    "genre": "Nu Metal"
+  }
+]
