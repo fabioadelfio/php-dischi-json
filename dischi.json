@@ -1,44 +1,51 @@
 [
   {
-    "title": "Nevermind",
-    "artist": "Nirvana",
+    "titolo": "Nevermind",
+    "artista": "Nirvana",
     "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
-    "year": 1991,
-    "genre": "Grunge"
+    "anno": 1991,
+    "genere": "Grunge"
   },
   {
-    "title": "Back in Black",
-    "artist": "AC/DC",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/84/Back_in_Black_ACDC.png",
-    "year": 1980,
-    "genre": "Hard Rock"
+    "titolo": "Back in Black",
+    "artista": "AC/DC",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ACDC_Back_in_Black.png/250px-ACDC_Back_in_Black.png",
+    "anno": 1980,
+    "genere": "Hard Rock"
   },
   {
-    "title": "Thriller",
-    "artist": "Michael Jackson",
+    "titolo": "Thriller",
+    "artista": "Michael Jackson",
     "cover": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
-    "year": 1982,
-    "genre": "Pop"
+    "anno": 1982,
+    "genere": "Pop"
   },
   {
-    "title": "The Dark Side of the Moon",
-    "artist": "Pink Floyd",
+    "titolo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
     "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
-    "year": 1973,
-    "genre": "Progressive Rock"
+    "anno": 1973,
+    "genere": "Progressive Rock"
   },
   {
-    "title": "Abbey Road",
-    "artist": "The Beatles",
+    "titolo": "Abbey Road",
+    "artista": "The Beatles",
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
-    "year": 1969,
-    "genre": "Rock"
+    "anno": 1969,
+    "genere": "Rock"
   },
   {
-    "title": "Hybrid Theory",
-    "artist": "Linkin Park",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/02/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
-    "year": 2000,
-    "genre": "Nu Metal"
+    "titolo": "Hybrid Theory",
+    "artista": "Linkin Park",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Linkin_Park_Hybrid_Theory_Album_Cover.jpg/250px-Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+    "anno": 2000,
+    "genere": "Nu Metal"
+  },
+  {
+    "titolo": "Numb",
+    "artista": "Giveon",
+    "cover": "data:image/jpeg;base64,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",
+    "anno": 2025,
+    "genere": "Soul/R&B"
   }
 ]
